@@ -1,0 +1,12 @@
+{
+    "name": "yyper/mailer2",
+    "authors": [
+        {
+            "name": "Développeur web",
+            "email": "51367556+Francois-Legrand@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "swiftmailer/swiftmailer": "6.0"
+    }
+}
